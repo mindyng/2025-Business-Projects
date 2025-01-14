@@ -55,4 +55,132 @@
 
     * Remember that correlation does not prove causation. Relationship between two variables may be caused by third variable. And this is why multivariate analysis is important.
 
+<img width="1858" alt="Screenshot 2025-01-11 at 1 12 18 PM" src="https://github.com/user-attachments/assets/360b1401-80cc-45b7-99eb-7c92dbab7018" />
+
 # Advanced
+
+Let me outline advanced visualization principles from both books and apply them specifically to Sephora's analytics needs:
+
+1. **Visual Hierarchy and Purpose-Driven Design**
+   - Start with clear business questions:
+     - "How does AI investment impact customer lifetime value?"
+     - "Which customer segments drive omnichannel growth?"
+     - "What's the relationship between virtual try-ons and purchase conversion?"
+   - Organize metrics in a logical flow from strategic to tactical
+   - Use size and positioning to emphasize key performance drivers
+
+2. **Advanced Comparative Techniques**
+   - Small Multiples for Store Performance
+     - Grid of sparklines showing sales trends across regions
+     - Consistent scale for easy comparison
+     - Color highlighting for stores exceeding/missing targets
+
+3. **Sophisticated Color Usage**
+   - Strategic Color Application:
+     - Reserved colors (like Sephora's black/white) for branding
+     - Alert colors only for actionable metrics
+     - Color intensity mapping to customer loyalty scores
+   - Accessibility-First Design:
+     - Colorblind-friendly palette for segment analysis
+     - Pattern fills for additional visual encoding
+
+4. **Context-Rich Visualization**
+   - Bullet Charts for KPIs:
+     - Current performance vs targets
+     - Historical range bands
+     - Year-over-year comparison
+   - Reference Lines:
+     - Industry benchmarks
+     - Seasonal expectations
+     - Pre/post promotion baselines
+
+5. **Advanced Chart Types for Complex Relationships**
+   - Sankey Diagrams:
+     - Customer journey flows
+     - Product category relationships
+     - Cross-sell patterns
+   - Horizon Charts:
+     - Long-term trend analysis
+     - Seasonal pattern detection
+     - Multiple metrics in compact space
+
+6. **Interactive Depth**
+   - Progressive Disclosure:
+     - Top-level metrics with drill-down capability
+     - Tooltips with contextual insights
+     - Linked views for cross-filtering
+   - Custom Interactions:
+     - Brush and zoom for time periods
+     - Lasso select for segment analysis
+     - Dynamic reference lines
+
+7. **Spatial and Temporal Analysis**
+   - Calendar Heatmaps:
+     - Daily sales patterns
+     - Promotion effectiveness
+     - Staffing optimization
+   - Geographic Analysis:
+     - Store performance maps
+     - Market penetration
+     - Competition analysis
+
+8. **Advanced Metric Combinations**
+   - Composite Indicators:
+     - Customer health score
+     - Store efficiency index
+     - Product performance rating
+   - Derived Metrics:
+     - Sales velocity
+     - Customer acquisition cost
+     - Lifetime value prediction
+
+9. **Actionable Insights Design**
+   - Exception Highlighting:
+     - Automated anomaly detection
+     - Threshold alerts
+     - Trend breakpoints
+   - Prescriptive Elements:
+     - Next best action recommendations
+     - Risk indicators
+     - Opportunity signals
+
+10. **Layout Innovation**
+    - Trellis Displays:
+      - Product category performance
+      - Channel comparison
+      - Time series decomposition
+    - Linked Small Multiples:
+      - Connected views of related metrics
+      - Coordinated highlighting
+      - Consistent scales
+
+## [Implemented advanced visualization](http://192.168.1.250:8501)
+### [Python Script](https://github.com/mindyng/2025-Business-Projects/blob/main/adv_sephora_dash.py)
+
+Key features of this advanced dashboard:
+
+1. **Sophisticated Analysis Options**
+   - Multiple analysis types (Performance, Customer Behavior, Digital Engagement, Anomaly Detection)
+   - Interactive controls for analysis parameters
+   - Advanced filtering options
+
+2. **Advanced Visualizations**
+   - Composite charts with multiple visualization types
+   - Interactive anomaly detection
+   - Customer segment bubble charts
+   - Digital engagement funnels
+
+3. **Enhanced Interactivity**
+   - Dynamic date range selection
+   - Segment filtering
+   - Adjustable analysis parameters
+   - Expandable insights section
+
+4. **Performance Optimization**
+   - Cached data loading
+   - Efficient data structures
+   - Optimized chart rendering
+   - 
+<img width="1779" alt="Screenshot 2025-01-14 at 12 05 24 PM" src="https://github.com/user-attachments/assets/2addfa30-b353-426c-9212-bf317135dc69" />
+
+
