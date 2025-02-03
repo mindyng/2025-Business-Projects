@@ -2,3 +2,4 @@
 * [How to Get Started in Alignment](https://www.alignmentforum.org/posts/PqMT9zGrNsGJNfiFR/alignment-research-field-guide)
   * [Author with LI connections to reach out to](https://www.linkedin.com/in/wentworthjohn/)
 * [How to Get Into Independent Research on Alignment/Agency](https://www.lesswrong.com/posts/P3Yt66Wh5g7SbkKuT/how-to-get-into-independent-research-on-alignment-agency)
+* [Code Implementation of LLM Guardrail](https://github.com/mindyng/GuardReasoner)
