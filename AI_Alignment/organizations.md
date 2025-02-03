@@ -1,5 +1,5 @@
 * [Anthropic Research Team: Societal Impact, Alignment, Interpretability](https://www.anthropic.com/research)
-* [https://www.safe.ai/careers](Center for AI Safety)
+* [Center for AI Safety](https://www.safe.ai/careers)
 * [Future of Life Institute](https://futureoflife.org/)
 * [Alignment Research Center](https://www.alignment.org/)
 * Practically Seeing the Reason Why by Jail Breaking with [Gray Swan Arena](https://app.grayswan.ai/arena)
