@@ -10,6 +10,8 @@
 * [Special Competitive Studies Project](https://www.scsp.ai/)
 * [80,000 Hours](https://80000hours.org)
   * https://80000hours.org/podcast/episodes/ajeya-cotra-accidentally-teaching-ai-to-deceive-us/
+  * https://80000hours.org/problem-profiles/artificial-intelligence/
+  * https://80000hours.org/articles/ai-policy-guide/
 * [Open Philanthropy](https://www.openphilanthropy.org/)
 * [Center for Humane Technology](https://www.humanetech.com/)
 * [Foresight Institute](https://foresight.org/technologies/secure-ai/)
