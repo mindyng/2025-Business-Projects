@@ -1,3 +1,4 @@
+* [AI Safety Fundamentals](https://course.aisafetyfundamentals.com/alignment?session=1)
 * [Stanford AI Alignment](https://docs.google.com/document/d/1NX0DlZRzD3NP7tBeLjMh76w7-w2s8SxV3wj0P7EYpKY/edit?tab=t.0#heading=h.4p5dmkpp2yu9)
 * [How to Get Started in Alignment](https://www.alignmentforum.org/posts/PqMT9zGrNsGJNfiFR/alignment-research-field-guide)
   * [Author with LI connections to reach out to](https://www.linkedin.com/in/wentworthjohn/)
