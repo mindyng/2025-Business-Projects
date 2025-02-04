@@ -14,4 +14,4 @@
 * [Foresight Institute](https://foresight.org/technologies/secure-ai/)
 * [Center for Human-Compatible AI](https://humancompatible.ai/about/)
 
-* [All i need](https://www.aisafety.com/map)
+* [aisafety.com - All I needed](https://www.aisafety.com/map)
