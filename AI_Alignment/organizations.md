@@ -13,5 +13,6 @@
 * [Center for Humane Technology](https://www.humanetech.com/)
 * [Foresight Institute](https://foresight.org/technologies/secure-ai/)
 * [Center for Human-Compatible AI](https://humancompatible.ai/about/)
+* [far.ai](https://www.youtube.com/@FARAIResearch/videos)
 
 * [aisafety.com - All I needed](https://www.aisafety.com/map)
